@@ -13,13 +13,12 @@
 <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Hexo_Blog-博客-yellow" /></a>
 </p>
 
+
   <picture>  
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/di-han/di-han/refs/heads/output/github-snake-dark.svg" />  
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/di-han/di-han/refs/heads/output/github-snake.svg" />  
     <img alt="github-snake" src="https://raw.githubusercontent.com/di-han/di-han/refs/heads/output/github-snake-dark.svg" /> 
   </picture>
-
-
 
 
 ## My GitHub
@@ -29,11 +28,11 @@
         <tr>
       	  <!-- 第一个图片 -->
       	  <td align="center">
-            <img height='160' src="https://github-readme-stats.vercel.app/api?username=di-han&show_icons=true&theme=tokyonight" />
+            <img src="https://github-stats-extended.vercel.app/api?username=di-han&show_icons=true&theme=github_dark" />
           </td>
           <!-- 第二个图片 -->
           <td align="center">
-            <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=di-han&layout=compact&theme=tokyonight" />
+            <img height='195' src="https://github-stats-extended.vercel.app/api/top-langs?username=di-han&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=github_dark" />
           </td>
         </tr>
           <!-- 第三个图片 -->
@@ -47,13 +46,13 @@
 
 
 
-
 ## My Skills
 
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,gradle,spring,nodejs,vue,nuxtjs,rabbitmq,pinia,mysql,redis,git,docker,vscode,idea,obsidian&perline=9" />
+    <img src="https://skillicons.dev/icons?i=go,java,js,spring,rabbitmq,mysql,redis,mongodb,nodejs,vue,pinia,git,docker,vscode,idea,obsidian&perline=9" />
   </a>
 </p>
+
