@@ -28,11 +28,11 @@
         <tr>
       	  <!-- 第一个图片 -->
       	  <td align="center">
-            <img src="https://github-stats-extended.vercel.app/api?username=di-han&show_icons=true&theme=github_dark" />
+            <img height='150' src="https://github-stats-extended.vercel.app/api?username=di-han&show_icons=true&theme=github_dark" />
           </td>
           <!-- 第二个图片 -->
           <td align="center">
-            <img height='195' src="https://github-stats-extended.vercel.app/api/top-langs?username=di-han&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=github_dark" />
+            <img height='200' src="https://github-stats-extended.vercel.app/api/top-langs?username=di-han&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=github_dark" />
           </td>
         </tr>
           <!-- 第三个图片 -->
